@@ -1,0 +1,15 @@
+.headings{
+    font-family: 'Oswald';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 27px;
+    color: #2C2626;
+}
+
+@media  (max-width: 960px) {
+    .headings{
+        font-size: 12px;
+        line-height: 18px;  
+    }
+}
